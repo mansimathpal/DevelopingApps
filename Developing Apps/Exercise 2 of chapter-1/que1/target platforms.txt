@@ -1,0 +1,53 @@
+User flows
+------------------------------------------------------------------------------------------
+An example of a user flow - an important part of the UX design process
+
+User flows focus on the way your target audience will interact with the product.
+ They emphasize that all users might not perform tasks the same and may travel in different paths.
+ They are typically attached to a specific persona and entry point.
+ Therefore, when using this type of flowchart, you may have many different scenarios that start at different places.
+ However, the main task or accomplishment is usually always the same.
+-------------------------------------------------------------------------------------------------------
+Important Ul/UX Design Aspects to Consider in the Development of Mobile Apps
+--------------------------------------------------------------------------------------------------------
+
+1. Retain Uniformity
+You should always ensure the layout of your app is consistent across all platforms.
+
+2. Use a Simple Design
+To enhance a user’s interest in your app, you should design it to provide exceptional services at a minimal input.
+
+3. Provide Fast Loading Speed
+Speed is an essential aspect of your Ul/UX design.
+ Users want to save time and, therefore, prefer an application with short loading span.
+
+4. Use Standard Elements
+To increase the user’s confidence and familiarity with the app, you should use standard symbols, colors, buttons,
+ and icons.
+
+5. Make it More Interactive
+If you want to make your more successful, consider making it more interactive. 
+
+6. Use Large Formats and Visuals
+Large visuals and formats prevent distractions from the environment, therefore, enabling the user to concentrate
+ on the application.
+
+7. Use High-resolution Images
+You should use clear images of high-resolution in your application for all the devices it supports. 
+
+8. Use Few Fonts
+In order to create a great impression on your clients, you should avoid big letters and use not more than 3 font sizes.
+
+9. Focus on your Intended Audience
+A great Ul/UX design is created to give users a fantastic first expression.
+
+10. Use Adaptive UI Design
+The use of adaptive design enables the app’s developer to make the correct plan for phones, tablets,
+ wearables and all screen sizes. 
+
+11. Iteration of UI Designs
+Iteration of your design helps in creating a great UI design for your app. 
+
+12. Do Wireframing
+Wireframing is done on an app sample to check its look, usability, and features before introducing it into the market.
+
